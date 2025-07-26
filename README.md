@@ -3,6 +3,8 @@
 A secure and intuitive electronic voting platform developed using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). This application enables smooth, real-time elections with robust authentication and transparent result tracking.
 
 <img width="1361" height="601" alt="Image" src="https://github.com/user-attachments/assets/bdc20e3e-b6f9-4935-9aca-55bbed4fde14" />
+<img width="1351" height="600" alt="Image" src="https://github.com/user-attachments/assets/42188202-b5fb-4f1f-9207-00ebbf14d015" />
+<img width="1350" height="593" alt="Image" src="https://github.com/user-attachments/assets/8dcebc2b-8cc7-4b6c-95cd-a5272587f87a" />
 <img width="1345" height="646" alt="Image" src="https://github.com/user-attachments/assets/d3d69666-0d57-4936-944e-c813a0bafd93" />
 <img width="1328" height="581" alt="Image" src="https://github.com/user-attachments/assets/854532b8-796d-4b9d-bdce-ab422b8d1e38" />
 <img width="1342" height="618" alt="Image" src="https://github.com/user-attachments/assets/6ea41470-9ebe-4ca3-abfe-5ba8dc138ca0" />
