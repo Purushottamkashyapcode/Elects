@@ -9,6 +9,7 @@ A secure and intuitive electronic voting platform developed using the **MERN Sta
 <img width="1343" height="598" alt="Image" src="https://github.com/user-attachments/assets/439d681f-56ed-40cc-860f-53b04957ade1" />
 <img width="1352" height="581" alt="Image" src="https://github.com/user-attachments/assets/dbf60d61-53a3-4cdf-80f0-8d6f709a8c00" />
 <img width="9" height="9" alt="Image" src="https://github.com/user-attachments/assets/9b929eb5-41d4-435f-a117-c50a249c4fa9" />
+<img width="1360" height="600" alt="Image" src="https://github.com/user-attachments/assets/90110d63-8603-4c2c-9c00-ee969d53cf59" />
 <img width="1365" height="596" alt="Image" src="https://github.com/user-attachments/assets/d9b16826-4f89-4814-a28b-f4bee08101f9" />
 <img width="1351" height="592" alt="Image" src="https://github.com/user-attachments/assets/594abaa0-efb3-4d28-a70f-a9da168f539f" />
 <img width="1348" height="591" alt="Image" src="https://github.com/user-attachments/assets/62d82771-2979-46b3-87fa-adeec05b5730" />
